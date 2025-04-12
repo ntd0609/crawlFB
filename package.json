@@ -49,7 +49,7 @@
     "sails": "~1.2.3",
     "sails-hook-orm": "~2.1.1",
     "sails-hook-sockets": "~2.0.0",
-    "sails-mongo": "^1.2.0",
+    "sails-mongo": "^2.1.2",
     "sails.io.js": "~1.2.1",
     "smtp-server": "^3.8.0",
     "socket.io": "~2.3.0",
@@ -81,8 +81,7 @@
     "test": "npm run lint && npm run custom-tests && echo 'Done.'",
     "lint": "node ./node_modules/eslint/bin/eslint . --max-warnings=0 && echo '✔  Your code looks good.'",
     "custom-tests": "echo \"(No other custom tests yet.)\" && echo",
-    "debug": "node debug app.js",
-    "dev": "node app.js --development"
+    "dev": "node -r dotenv/config app.js --verbose"
   },
   "main": "app.js",
   "repository": {

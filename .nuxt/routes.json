@@ -1,0 +1,140 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "/home/dungnt/Projects/crawlFB/client/pages/dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "children": [
+      {
+        "name": "dashboard-bai-viet",
+        "path": "bai-viet",
+        "component": "/home/dungnt/Projects/crawlFB/client/pages/dashboard/bai-viet/index.vue",
+        "chunkName": "pages/dashboard/bai-viet/index",
+        "_name": "_11194a1e"
+      },
+      {
+        "name": "dashboard-spam",
+        "path": "spam",
+        "component": "/home/dungnt/Projects/crawlFB/client/pages/dashboard/spam.vue",
+        "chunkName": "pages/dashboard/spam",
+        "children": [
+          {
+            "name": "dashboard-spam-comment",
+            "path": "comment",
+            "component": "/home/dungnt/Projects/crawlFB/client/pages/dashboard/spam/comment.vue",
+            "chunkName": "pages/dashboard/spam/comment",
+            "_name": "_0261f782"
+          },
+          {
+            "name": "dashboard-spam-follow",
+            "path": "follow",
+            "component": "/home/dungnt/Projects/crawlFB/client/pages/dashboard/spam/follow.vue",
+            "chunkName": "pages/dashboard/spam/follow",
+            "_name": "_d8acbb44"
+          },
+          {
+            "name": "dashboard-spam-like",
+            "path": "like",
+            "component": "/home/dungnt/Projects/crawlFB/client/pages/dashboard/spam/like.vue",
+            "chunkName": "pages/dashboard/spam/like",
+            "_name": "_20a4d484"
+          }
+        ],
+        "_name": "_3d0b2e32"
+      },
+      {
+        "name": "dashboard-tai-khoan",
+        "path": "tai-khoan",
+        "component": "/home/dungnt/Projects/crawlFB/client/pages/dashboard/tai-khoan.vue",
+        "chunkName": "pages/dashboard/tai-khoan",
+        "_name": "_7de18a55"
+      },
+      {
+        "name": "dashboard-thong-tin-ca-nhan",
+        "path": "thong-tin-ca-nhan",
+        "component": "/home/dungnt/Projects/crawlFB/client/pages/dashboard/thong-tin-ca-nhan.vue",
+        "chunkName": "pages/dashboard/thong-tin-ca-nhan",
+        "_name": "_01282360"
+      },
+      {
+        "name": "dashboard-admin-delay",
+        "path": "admin/delay",
+        "component": "/home/dungnt/Projects/crawlFB/client/pages/dashboard/admin/delay.vue",
+        "chunkName": "pages/dashboard/admin/delay",
+        "_name": "_d457142c"
+      },
+      {
+        "name": "dashboard-admin-quan-ly-tai-khoan",
+        "path": "admin/quan-ly-tai-khoan",
+        "component": "/home/dungnt/Projects/crawlFB/client/pages/dashboard/admin/quan-ly-tai-khoan.vue",
+        "chunkName": "pages/dashboard/admin/quan-ly-tai-khoan",
+        "_name": "_f6324bde"
+      },
+      {
+        "name": "dashboard-admin-tai-khoan",
+        "path": "admin/tai-khoan",
+        "component": "/home/dungnt/Projects/crawlFB/client/pages/dashboard/admin/tai-khoan.vue",
+        "chunkName": "pages/dashboard/admin/tai-khoan",
+        "_name": "_4eb34455"
+      },
+      {
+        "name": "dashboard-bai-viet-binh-luan",
+        "path": "bai-viet/binh-luan",
+        "component": "/home/dungnt/Projects/crawlFB/client/pages/dashboard/bai-viet/binh-luan.vue",
+        "chunkName": "pages/dashboard/bai-viet/binh-luan",
+        "_name": "_6b431821"
+      },
+      {
+        "name": "dashboard-hide-binh-luan",
+        "path": "hide/binh-luan",
+        "component": "/home/dungnt/Projects/crawlFB/client/pages/dashboard/hide/binh-luan.vue",
+        "chunkName": "pages/dashboard/hide/binh-luan",
+        "_name": "_201d409e"
+      },
+      {
+        "name": "dashboard-hide-danh-sach",
+        "path": "hide/danh-sach",
+        "component": "/home/dungnt/Projects/crawlFB/client/pages/dashboard/hide/danh-sach.vue",
+        "chunkName": "pages/dashboard/hide/danh-sach",
+        "_name": "_77d6dfe5"
+      }
+    ],
+    "_name": "_9cf1f494"
+  },
+  {
+    "path": "/",
+    "component": "/home/dungnt/Projects/crawlFB/client/pages/index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index",
+        "path": "",
+        "component": "/home/dungnt/Projects/crawlFB/client/pages/index/index.vue",
+        "chunkName": "pages/index/index",
+        "_name": "_a331ed12"
+      },
+      {
+        "name": "index-dang-ki",
+        "path": "dang-ki",
+        "component": "/home/dungnt/Projects/crawlFB/client/pages/index/dang-ki.vue",
+        "chunkName": "pages/index/dang-ki",
+        "_name": "_3a57d90c"
+      },
+      {
+        "name": "index-khoi-phuc-mat-khau",
+        "path": "khoi-phuc-mat-khau",
+        "component": "/home/dungnt/Projects/crawlFB/client/pages/index/khoi-phuc-mat-khau.vue",
+        "chunkName": "pages/index/khoi-phuc-mat-khau",
+        "_name": "_122d204c"
+      },
+      {
+        "name": "index-quen-mat-khau",
+        "path": "quen-mat-khau",
+        "component": "/home/dungnt/Projects/crawlFB/client/pages/index/quen-mat-khau.vue",
+        "chunkName": "pages/index/quen-mat-khau",
+        "_name": "_b5d6377a"
+      }
+    ],
+    "_name": "_35a4c9f4"
+  }
+]

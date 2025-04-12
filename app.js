@@ -31,6 +31,8 @@ process.chdir(__dirname);
  */
 process.env.API_URL = process.env.API_URL;
 
+const ultils = require("./ultils")
+ultils.saveLog(process.env)
 
 // Attempt to import `sails` dependency, as well as `rc` (for loading `.sailsrc` files).
 var sails;

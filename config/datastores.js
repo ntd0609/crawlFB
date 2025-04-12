@@ -1,15 +1,7 @@
-
-
 module.exports.datastores = {
-
-
-
   default: {
-
-     adapter: 'sails-mongo',
-     url: 'mongodb://localhost:27017/metadev',
-
+    adapter: "sails-mongo",
+    url: "mongodb://ntd0609:ntd0609@ac-lnmrdmu-shard-00-00.jb9zguf.mongodb.net:27017,ac-lnmrdmu-shard-00-01.jb9zguf.mongodb.net:27017,ac-lnmrdmu-shard-00-02.jb9zguf.mongodb.net:27017/meta?ssl=true&replicaSet=atlas-lf2a2o-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0",
   },
-
-
 };
+
